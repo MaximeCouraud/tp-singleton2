@@ -1,0 +1,16 @@
+{
+    "name": "couraud/singleton",
+    "description": "projet singleton",
+    "authors": [
+        {
+            "name": "Max",
+            "email": "maxime.couraud@epsi.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\": "app/src"
+        }
+    }
+}
